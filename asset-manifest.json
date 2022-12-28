@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/club-website/static/css/main.073c9b0a.css",
+    "main.js": "/club-website/static/js/main.baf4eb32.js",
+    "static/js/787.3edcfc82.chunk.js": "/club-website/static/js/787.3edcfc82.chunk.js",
+    "static/media/logo.svg": "/club-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/club-website/index.html",
+    "main.073c9b0a.css.map": "/club-website/static/css/main.073c9b0a.css.map",
+    "main.baf4eb32.js.map": "/club-website/static/js/main.baf4eb32.js.map",
+    "787.3edcfc82.chunk.js.map": "/club-website/static/js/787.3edcfc82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.baf4eb32.js"
+  ]
+}
